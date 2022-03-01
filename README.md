@@ -1,6 +1,6 @@
 # Date-Calculator
 
-Mit diesem Datumsrechner kann ein Datum nach beliebig vielen Tagen beginnend von einem beliebigen Ausgansgdatum berechne werden.
+Mit diesem Datumsrechner kann ein Datum nach beliebig vielen Tagen beginnend von einem beliebigen Ausgansgdatum berechnet werden.
 
 Als Ausgangsdatum sind Jahre zwischen 1000 und 9999 akzeptiert.(Das Ausgabejahr kann allderings größer sein als das Eingabejahr.)
 Nur positive Anzahlen von Tagen werden akzeptiert, es kann also nur „vorwärts“ gerechnet werden.
