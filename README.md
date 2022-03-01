@@ -1,4 +1,4 @@
-# date-calculator
+# Date-Calculator
 
 Mit diesem Datumsrechner kann ein Datum nach beliebig vielen Tagen beginnend von einem beliebigen Ausgansgdatum berechne werden.
 
