@@ -8,6 +8,7 @@ Nur positive Anzahlen von Tagen werden akzeptiert, es kann also nur „vorwärts
 Es wird bei der Berechnung der Schaljahre die Kalenderreform von 1582 berücksichtigt (https://de.wikipedia.org/wiki/Gregorianischer_Kalender, https://de.wikipedia.org/wiki/Julianischer_Kalender).
 
 
+
 This date calculator can calculate a target date after any days starting from any date.
 
 Input years are accepted from 1000 and 9999 (but it can be calculated beyond the maximum).
