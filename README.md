@@ -10,7 +10,7 @@ Es wird bei der Berechnung der Schaljahre die Kalenderreform von 1582 berücksic
 
 This date calculator can calculate a target date after any days starting from any date.
 
-The date must be written without points, e.g., z.B. 31122022, 1012022.
+The date must be written without points (DDMMYYYY), e.g., z.B. 31122022, 1012022.
 Input years are accepted from 1000 and 9999 (but it can be calculated beyond the maximum).
 Only positive number of days are accepted, so it can only be calculated "forward".
 
